@@ -96,21 +96,37 @@ canvas{
 }
 
 .text_container{
-  position: absolute;
-top: 25%;
-left: 24%;
-text-align: center;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 168px;
+    left: 0;
+    right: 0;
+    text-align: center;
 }
 h1 {
 font-size: 75px;
 text-shadow: 1px 1px 5px black;
 color: rgb(199, 199, 199);
 /* font-family: 'Shadows Into Light', cursive; */
-font-family: 'Patua One', cursive;
+/*font-family: 'Patua One', cursive;
+*/
+font-family: 'Handlee', cursive;
 letter-spacing: 5px;
 letter-spacing: 2;
 }
 
+h2{
+  font-size: 13px;
+text-shadow: 1px 1px 5px black;
+color: rgb(199, 199, 199);
+/* font-family: 'Shadows Into Light', cursive; */
+/*font-family: 'Patua One', cursive;
+*/
+font-family: 'Handlee', cursive;
+letter-spacing: 2px;
+letter-spacing: 2;
+}
 
 h3{
 font-size: 15px;
